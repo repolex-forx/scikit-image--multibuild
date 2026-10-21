@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scikit-image/multibuild/commit/0623c582027a5c914a24d5e0823d5e3c47d43101",
       "git:hexsha": "0623c582027a5c914a24d5e0823d5e3c47d43101",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
